@@ -1,7 +1,10 @@
-Covid-19-Desktop 
+Instagram-ScreenShot
 
-Prerequisites for running the program:
-1. Newtonsoft.Json.12.0.3
-2. RestSharp.106.11.4
+Download the Chrome driver according to your browser version in the drive folder named _Chrome_Dr.exe
+This driver is used to launch selenium so it is essential.
 
-download and install packages in nuget
+Your account data is read from the default.txt file
+
+As well as your target username from the targets.txt file
+
+goodluck.
