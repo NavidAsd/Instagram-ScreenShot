@@ -1,0 +1,4 @@
+2021-03-19 13:49:53.332852
+os type: Windows
+data storage type: TXT(file)
+--------------------------------
